@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.festival {
+  --tw-bg-opacity: 1;
+  background-color: rgba(255, 223, 186, var(--tw-bg-opacity));
+}
