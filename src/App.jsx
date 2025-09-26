@@ -26,6 +26,7 @@ function App() {
   useEffect(() => {
     const generateHearts = () => {
       const newHearts = [];
+      
       for (let i = 0; i < 15; i++) {
         newHearts.push({
           id: i,
